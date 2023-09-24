@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.form-container, .server-list {
+    margin-bottom: 20px;
+}
+
+form, ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
